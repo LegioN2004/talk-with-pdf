@@ -49,7 +49,7 @@ const features = [
 export default function Home() {
 	return (
 		<main className="pt-5">
-			<div className="border border-l-blue-400">
+			<div className="border border-r-cyan-500">
 				<h3>Your </h3>
 			</div>
 		</main>
